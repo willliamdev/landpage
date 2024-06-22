@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    color: #F8F8F2;
+    background-color: #15161a;
+    font-size: 110%;   
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    padding: 20px ;
+}
+
+.comment {
+    padding-top: 15px ;
+    color: #6272A4;
+}
